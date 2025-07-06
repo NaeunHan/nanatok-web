@@ -1,4 +1,4 @@
-name: nanatok_web_save_fixed
+name: nanatok_web
 description: NANATOK web with save support (fixed)
 publish_to: 'none'
 version: 1.0.0+3
